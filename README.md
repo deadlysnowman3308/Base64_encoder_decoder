@@ -1,6 +1,8 @@
 # Base64_encoder_decoder
 
 
+* For Windows use only
+
 ## How to use:
 ```
 # Download this tool as zip
@@ -12,9 +14,7 @@
 ### Encoding =>
 ```
 # Download this tool as zip
-
 # Unzip the file
-<br>
 # Run Base64_encoder_decoder.exe
 # Type any text for encoding into base64
 # Then type output file name 
@@ -30,3 +30,4 @@
 # Type base64 encoded code for decoding into normal text
 # Then type output file name 
 # Now you see your decoded file into your same folder
+```
