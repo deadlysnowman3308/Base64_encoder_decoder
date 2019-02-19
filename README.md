@@ -3,11 +3,7 @@
 
 * For Windows use only
 
-<br>
-<br>
-
 ![capture](https://user-images.githubusercontent.com/38289183/52994704-75c56c00-343e-11e9-83d3-e3f3e768f3b6.JPG)
-
 
 ## How to use:
 ```
