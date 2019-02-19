@@ -4,14 +4,15 @@
 ## How to use:
 ```
 # Download this tool as zip
-<br>
+
 # Unzip the file
-<br>
+
 ```
+
 ### Encoding =>
 ```
 # Download this tool as zip
-<br>
+
 # Unzip the file
 <br>
 # Run Base64_encoder_decoder.exe
@@ -21,6 +22,8 @@
 ```
 <br>
 <br>
+
+
 ### Decoding =>
 ```
 # Run Base64_encoder_decoder.exe
