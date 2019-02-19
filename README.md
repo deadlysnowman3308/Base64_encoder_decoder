@@ -13,8 +13,6 @@
 
 ### Encoding =>
 ```
-# Download this tool as zip
-# Unzip the file
 # Run Base64_encoder_decoder.exe
 # Type any text for encoding into base64
 # Then type output file name 
